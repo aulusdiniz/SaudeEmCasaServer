@@ -12,7 +12,7 @@ HTTP.methods({
       return JSON.stringify(json);
     }
   },
-  '/habilitados/gid/:gid_value/aid/:android_id_value/rating/:rating':{      // Permite acessar os dados filtrados por 'uf' da Collection Habilitados.
+  '/rate/gid/:gid_value/aid/:android_id_value/rating/:rating':{      // Permite acessar os dados filtrados por 'uf' da Collection Habilitados.
     get: function(){
 
       var gid_value = this.params.gid_value;
