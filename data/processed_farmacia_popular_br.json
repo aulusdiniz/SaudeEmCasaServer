@@ -1,0 +1,7656 @@
+{
+  
+    "gid": "17"
+  ,
+  
+    "lat": "-3.0206756"
+  ,
+  
+    "long": "-59.9768139"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA NOEL NUTELS Nº 811"
+  ,
+  
+    "nu_cep_farmacia": "69095000"
+  ,
+  
+    "uf": "AM"
+  ,
+  
+    "cidade": "Manaus"
+  
+},
+{
+  
+    "gid": "444"
+  ,
+  
+    "lat": "-10.9128701"
+  ,
+  
+    "long": "-37.0738442"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CARLOS CORREIA, 528"
+  ,
+  
+    "nu_cep_farmacia": "49075120"
+  ,
+  
+    "uf": "SE"
+  ,
+  
+    "cidade": "Aracaju"
+  
+},
+{
+  
+    "gid": "543"
+  ,
+  
+    "lat": "-11.7120262"
+  ,
+  
+    "long": "-49.0577212"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "R PRESIDENTE JUSCELINO KUBSTCHEK Nº 1976"
+  ,
+  
+    "nu_cep_farmacia": "77405110"
+  ,
+  
+    "uf": "TO"
+  ,
+  
+    "cidade": "Gurupi"
+  
+},
+{
+  
+    "gid": "234"
+  ,
+  
+    "lat": "-3.2038706"
+  ,
+  
+    "long": "-52.2098158"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "TRAV COMANDANTE CASTILHO Nº 600"
+  ,
+  
+    "nu_cep_farmacia": "68371000"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Altamira"
+  
+},
+{
+  
+    "gid": "41"
+  ,
+  
+    "lat": "-14.7997132"
+  ,
+  
+    "long": "-39.0359037"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV ALMIRANTE AURELINO LINHARES S/N"
+  ,
+  
+    "nu_cep_farmacia": "45653650"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Ilhéus"
+  
+},
+{
+  
+    "gid": "13"
+  ,
+  
+    "lat": "-7.2219137"
+  ,
+  
+    "long": "-62.4504154"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV MARECHAL DEODORO Nº13"
+  ,
+  
+    "nu_cep_farmacia": "69800000"
+  ,
+  
+    "uf": "AM"
+  ,
+  
+    "cidade": "Humaitá"
+  
+},
+{
+  
+    "gid": "188"
+  ,
+  
+    "lat": "-19.6269473"
+  ,
+  
+    "long": "-43.230096"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA NOVA ERA N 72"
+  ,
+  
+    "nu_cep_farmacia": "35900199"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Itabira"
+  
+},
+{
+  
+    "gid": "544"
+  ,
+  
+    "lat": "-10.3447781"
+  ,
+  
+    "long": "-48.2998294"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV JK QUADRA 106 NORTE ( ACSV NE12 LOTE 16)"
+  ,
+  
+    "nu_cep_farmacia": "77016010"
+  ,
+  
+    "uf": "TO"
+  ,
+  
+    "cidade": "Palmas"
+  
+},
+{
+  
+    "gid": "26"
+  ,
+  
+    "lat": "0.1755009"
+  ,
+  
+    "long": "-51.4309582"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA UBALDO FIGUEIRA"
+  ,
+  
+    "nu_cep_farmacia": "68925000"
+  ,
+  
+    "uf": "AP"
+  ,
+  
+    "cidade": "Santana"
+  
+},
+{
+  
+    "gid": "175"
+  ,
+  
+    "lat": "-19.9076079"
+  ,
+  
+    "long": "-43.952023"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DA FORMIGA, Nº140"
+  ,
+  
+    "nu_cep_farmacia": "31210780"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Belo Horizonte"
+  
+},
+{
+  
+    "gid": "260"
+  ,
+  
+    "lat": "-4.2561028"
+  ,
+  
+    "long": "-55.9887745"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "TR JOAO PESSOA, SN E"
+  ,
+  
+    "nu_cep_farmacia": "68180610"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Itaituba"
+  
+},
+{
+  
+    "gid": "168"
+  ,
+  
+    "lat": "-5.1123416"
+  ,
+  
+    "long": "-42.8235685"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MIGUEL SIMAO 528"
+  ,
+  
+    "nu_cep_farmacia": "65630220"
+  ,
+  
+    "uf": "MA"
+  ,
+  
+    "cidade": "Timon"
+  
+},
+{
+  
+    "gid": "243"
+  ,
+  
+    "lat": "-1.4540978"
+  ,
+  
+    "long": "-48.4916789"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA INDEPENDENCIA Nº 13"
+  ,
+  
+    "nu_cep_farmacia": "66000000"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Belém"
+  
+},
+{
+  
+    "gid": "68"
+  ,
+  
+    "lat": "-12.9937824"
+  ,
+  
+    "long": "-38.4922195"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA GRAÇA LESSA Nº888 VALE DO OGUNJA"
+  ,
+  
+    "nu_cep_farmacia": "40290500"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "386"
+  ,
+  
+    "lat": "-5.7877742"
+  ,
+  
+    "long": "-35.1999112"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA PRESIDENTE DUTRA Nº 213"
+  ,
+  
+    "nu_cep_farmacia": "5962500"
+  ,
+  
+    "uf": "RN"
+  ,
+  
+    "cidade": "Mossoró"
+  
+},
+{
+  
+    "gid": "73"
+  ,
+  
+    "lat": "-12.9488576"
+  ,
+  
+    "long": "-38.4941904"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA LIMA E SILVA, Nº 249"
+  ,
+  
+    "nu_cep_farmacia": "40375010"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "315"
+  ,
+  
+    "lat": "-9.3809135"
+  ,
+  
+    "long": "-40.4999942"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ANTONIO PEDROSA N 210B"
+  ,
+  
+    "nu_cep_farmacia": "56330075"
+  ,
+  
+    "uf": "PE"
+  ,
+  
+    "cidade": "Petrolina"
+  
+},
+{
+  
+    "gid": "113"
+  ,
+  
+    "lat": "-4.8149897"
+  ,
+  
+    "long": "-38.1054495"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA CORONEL ARAUJO LIMA Nº 1430"
+  ,
+  
+    "nu_cep_farmacia": "62900000"
+  ,
+  
+    "uf": "CE"
+  ,
+  
+    "cidade": "Russas"
+  
+},
+{
+  
+    "gid": "396"
+  ,
+  
+    "lat": "-8.7528012"
+  ,
+  
+    "long": "-63.8679364"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA JOAQUIM NABUCO N 2301"
+  ,
+  
+    "nu_cep_farmacia": "78900850"
+  ,
+  
+    "uf": "RO"
+  ,
+  
+    "cidade": "Porto Velho"
+  
+},
+{
+  
+    "gid": "306"
+  ,
+  
+    "lat": "-8.0161148"
+  ,
+  
+    "long": "-34.9919961"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA BELMINO CORREIA Nº 840"
+  ,
+  
+    "nu_cep_farmacia": "54768000"
+  ,
+  
+    "uf": "PE"
+  ,
+  
+    "cidade": "Camaragibe"
+  
+},
+{
+  
+    "gid": "321"
+  ,
+  
+    "lat": "-2.9028575"
+  ,
+  
+    "long": "-41.7792507"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRACA SANTO ANTONIO SN"
+  ,
+  
+    "nu_cep_farmacia": "64200361"
+  ,
+  
+    "uf": "PI"
+  ,
+  
+    "cidade": "Parnaíba"
+  
+},
+{
+  
+    "gid": "186"
+  ,
+  
+    "lat": "-18.8610867"
+  ,
+  
+    "long": "-41.9469281"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MARECHAL DEODORO Nº 368"
+  ,
+  
+    "nu_cep_farmacia": "35010280"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Governador Valadares"
+  
+},
+{
+  
+    "gid": "119"
+  ,
+  
+    "lat": "-20.3390799"
+  ,
+  
+    "long": "-40.3839551"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA JOAO LOPES ROGERIO Nº 08"
+  ,
+  
+    "nu_cep_farmacia": "29146330"
+  ,
+  
+    "uf": "ES"
+  ,
+  
+    "cidade": "Cariacica"
+  
+},
+{
+  
+    "gid": "271"
+  ,
+  
+    "lat": "-8.0359447"
+  ,
+  
+    "long": "-50.0367343"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ADEMAR GUIMARAES SN QUADRA 82"
+  ,
+  
+    "nu_cep_farmacia": "68552390"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Redenção"
+  
+},
+{
+  
+    "gid": "445"
+  ,
+  
+    "lat": "-10.9159926"
+  ,
+  
+    "long": "-37.0547924"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ESTANCIA N 772"
+  ,
+  
+    "nu_cep_farmacia": "49010180"
+  ,
+  
+    "uf": "SE"
+  ,
+  
+    "cidade": "Aracaju"
+  
+},
+{
+  
+    "gid": "155"
+  ,
+  
+    "lat": "-5.5364337"
+  ,
+  
+    "long": "-47.4892304"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CEARA Nº 580"
+  ,
+  
+    "nu_cep_farmacia": "65900100"
+  ,
+  
+    "uf": "MA"
+  ,
+  
+    "cidade": "Imperatriz"
+  
+},
+{
+  
+    "gid": "394"
+  ,
+  
+    "lat": "-5.9185465"
+  ,
+  
+    "long": "-35.2766442"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA PEDRO BEZERRA FILHO, Nº 15"
+  ,
+  
+    "nu_cep_farmacia": "59141175"
+  ,
+  
+    "uf": "RN"
+  ,
+  
+    "cidade": "Parnamirim"
+  
+},
+{
+  
+    "gid": "27"
+  ,
+  
+    "lat": "-12.1199217"
+  ,
+  
+    "long": "-38.4192541"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRACA DA BANDEIRA, SN"
+  ,
+  
+    "nu_cep_farmacia": "48010110"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Alagoinhas"
+  
+},
+{
+  
+    "gid": "252"
+  ,
+  
+    "lat": "-2.2355058"
+  ,
+  
+    "long": "-49.5279996"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "TRAVESSA CONEGO MIGUEL INACIO Nº 172"
+  ,
+  
+    "nu_cep_farmacia": "68400000"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Cametá"
+  
+},
+{
+  
+    "gid": "19"
+  ,
+  
+    "lat": "-3.042903"
+  ,
+  
+    "long": "-59.9161453"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVAUTAZ MIRIM Nº 114 SHOPPING GRANDE CIRCULAR"
+  ,
+  
+    "nu_cep_farmacia": "69088480"
+  ,
+  
+    "uf": "AM"
+  ,
+  
+    "cidade": "Manaus"
+  
+},
+{
+  
+    "gid": "75"
+  ,
+  
+    "lat": "-12.9745522"
+  ,
+  
+    "long": "-38.4968182"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA LADEIRA DOS GALES, Nº 33 -"
+  ,
+  
+    "nu_cep_farmacia": "40255010"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "214"
+  ,
+  
+    "lat": "-19.5391281"
+  ,
+  
+    "long": "-42.6453916"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA XV DE NOVEMBRO N 35 LOJAS 101 E 102"
+  ,
+  
+    "nu_cep_farmacia": "35180010"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Timóteo"
+  
+},
+{
+  
+    "gid": "5"
+  ,
+  
+    "lat": "-9.3700225"
+  ,
+  
+    "long": "-38.1054495"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV. CAXANGA, Nº 30 PEDRA VELHA"
+  ,
+  
+    "nu_cep_farmacia": "57480000"
+  ,
+  
+    "uf": "AL"
+  ,
+  
+    "cidade": "Delmiro Gouveia"
+  
+},
+{
+  
+    "gid": "101"
+  ,
+  
+    "lat": "-3.7746557"
+  ,
+  
+    "long": "-38.5716667"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA GENERAL OSORIO DE PAIVA Nº 2955 AREA CENTRAL DO TERMINAL DE INTEGRAÇÃO D"
+  ,
+  
+    "nu_cep_farmacia": "60720901"
+  ,
+  
+    "uf": "CE"
+  ,
+  
+    "cidade": "Fortaleza"
+  
+},
+{
+  
+    "gid": "178"
+  ,
+  
+    "lat": "-19.9749505"
+  ,
+  
+    "long": "-44.207608"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA FELIPE DOS SANTOS, 445"
+  ,
+  
+    "nu_cep_farmacia": "32600126"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Betim"
+  
+},
+{
+  
+    "gid": "37"
+  ,
+  
+    "lat": "-12.2239915"
+  ,
+  
+    "long": "-38.985066"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SENADOR QUINTINO SN"
+  ,
+  
+    "nu_cep_farmacia": "44030000"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Feira de Santana"
+  
+},
+{
+  
+    "gid": "255"
+  ,
+  
+    "lat": "-1.2856573"
+  ,
+  
+    "long": "-47.919347"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "TRAVESSA CONEGO LEITAO Nº 1941"
+  ,
+  
+    "nu_cep_farmacia": "68743020"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Castanhal"
+  
+},
+{
+  
+    "gid": "38"
+  ,
+  
+    "lat": "-12.2932029"
+  ,
+  
+    "long": "-38.9641978"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CARLOS GOMES, Nº 81"
+  ,
+  
+    "nu_cep_farmacia": "44010530"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Feira de Santana"
+  
+},
+{
+  
+    "gid": "292"
+  ,
+  
+    "lat": "-7.1731838"
+  ,
+  
+    "long": "-34.8927615"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA GRACILIANO DELGADO,"
+  ,
+  
+    "nu_cep_farmacia": "58081000"
+  ,
+  
+    "uf": "PB"
+  ,
+  
+    "cidade": "João Pessoa"
+  
+},
+{
+  
+    "gid": "542"
+  ,
+  
+    "lat": "-7.208883"
+  ,
+  
+    "long": "-48.237125"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DAS MANGUEIRAS Nº 1104 QUADRA 17 LOTE 9A"
+  ,
+  
+    "nu_cep_farmacia": "7780490"
+  ,
+  
+    "uf": "TO"
+  ,
+  
+    "cidade": "Araguaína"
+  
+},
+{
+  
+    "gid": "105"
+  ,
+  
+    "lat": "-5.142803"
+  ,
+  
+    "long": "-38.094207"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CÕNEGO BESSA Nº2515"
+  ,
+  
+    "nu_cep_farmacia": "6293000"
+  ,
+  
+    "uf": "CE"
+  ,
+  
+    "cidade": "Limoeiro do Norte"
+  
+},
+{
+  
+    "gid": "392"
+  ,
+  
+    "lat": "-5.8167166"
+  ,
+  
+    "long": "-35.2011079"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MARIZE BASTIER N 203"
+  ,
+  
+    "nu_cep_farmacia": "59056070"
+  ,
+  
+    "uf": "RN"
+  ,
+  
+    "cidade": "Natal"
+  
+},
+{
+  
+    "gid": "213"
+  ,
+  
+    "lat": "-17.851259"
+  ,
+  
+    "long": "-41.5137769"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA FRANCISCO SA Nº 222"
+  ,
+  
+    "nu_cep_farmacia": "39800127"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Teófilo Otoni"
+  
+},
+{
+  
+    "gid": "153"
+  ,
+  
+    "lat": "-1.8867371"
+  ,
+  
+    "long": "-44.813111"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA HERCULANA VIEIRA, N"
+  ,
+  
+    "nu_cep_farmacia": "65268000"
+  ,
+  
+    "uf": "MA"
+  ,
+  
+    "cidade": "Cururupu"
+  
+},
+{
+  
+    "gid": "341"
+  ,
+  
+    "lat": "-23.0095586"
+  ,
+  
+    "long": "-44.322473"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA PEREIRA PEIXOTO N 102"
+  ,
+  
+    "nu_cep_farmacia": "23900440"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Angra dos Reis"
+  
+},
+{
+  
+    "gid": "107"
+  ,
+  
+    "lat": "-3.8603169"
+  ,
+  
+    "long": "-38.5861013"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA JOAO CONRADO SN"
+  ,
+  
+    "nu_cep_farmacia": "61932330"
+  ,
+  
+    "uf": "CE"
+  ,
+  
+    "cidade": "Maracanaú"
+  
+},
+{
+  
+    "gid": "317"
+  ,
+  
+    "lat": "-8.0562906"
+  ,
+  
+    "long": "-34.8748317"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA CAXANGA,188"
+  ,
+  
+    "nu_cep_farmacia": "50030220"
+  ,
+  
+    "uf": "PE"
+  ,
+  
+    "cidade": "Recife"
+  
+},
+{
+  
+    "gid": "217"
+  ,
+  
+    "lat": "-19.7391116"
+  ,
+  
+    "long": "-47.9230571"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV FIDELIS REIS Nº 271 SALA 108"
+  ,
+  
+    "nu_cep_farmacia": "38017020"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Uberaba"
+  
+},
+{
+  
+    "gid": "39"
+  ,
+  
+    "lat": "-12.2932029"
+  ,
+  
+    "long": "-38.9641978"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA BARAO DE COTEGIPE Nº 715"
+  ,
+  
+    "nu_cep_farmacia": "44010150"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Feira de Santana"
+  
+},
+{
+  
+    "gid": "64"
+  ,
+  
+    "lat": "-12.9515958"
+  ,
+  
+    "long": "-38.4784214"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "ESTRADA DA MANDICHURIA S/N"
+  ,
+  
+    "nu_cep_farmacia": "40323085"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "268"
+  ,
+  
+    "lat": "-3.0050767"
+  ,
+  
+    "long": "-47.3535246"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA BACABAL Nº 195"
+  ,
+  
+    "nu_cep_farmacia": "68625970"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Paragominas"
+  
+},
+{
+  
+    "gid": "210"
+  ,
+  
+    "lat": "-21.136839"
+  ,
+  
+    "long": "-44.2739556"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA GETULIO VARGAS Nº 98"
+  ,
+  
+    "nu_cep_farmacia": "36300086"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "São João del Rei"
+  
+},
+{
+  
+    "gid": "174"
+  ,
+  
+    "lat": "-19.9778007"
+  ,
+  
+    "long": "-44.0175346"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ALCINDO VIEIRA, N 69"
+  ,
+  
+    "nu_cep_farmacia": "30640100"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Belo Horizonte"
+  
+},
+{
+  
+    "gid": "320"
+  ,
+  
+    "lat": "-2.9252282"
+  ,
+  
+    "long": "-41.7631351"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ANHANGUERA,1189"
+  ,
+  
+    "nu_cep_farmacia": "64215360"
+  ,
+  
+    "uf": "PI"
+  ,
+  
+    "cidade": "Parnaíba"
+  
+},
+{
+  
+    "gid": "3"
+  ,
+  
+    "lat": "-9.7502604"
+  ,
+  
+    "long": "-36.6593137"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA EXPEDICIONARIO BRASIEIROS Nº 61"
+  ,
+  
+    "nu_cep_farmacia": "57300590"
+  ,
+  
+    "uf": "AL"
+  ,
+  
+    "cidade": "Arapiraca"
+  
+},
+{
+  
+    "gid": "108"
+  ,
+  
+    "lat": "-3.8924489"
+  ,
+  
+    "long": "-38.6847522"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "NAPOLEAO LIMA 253"
+  ,
+  
+    "nu_cep_farmacia": "61940180"
+  ,
+  
+    "uf": "CE"
+  ,
+  
+    "cidade": "Maranguape"
+  
+},
+{
+  
+    "gid": "291"
+  ,
+  
+    "lat": "-7.10374"
+  ,
+  
+    "long": "-34.8541389"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA JOAQUIM PIRES N 371"
+  ,
+  
+    "nu_cep_farmacia": "58028110"
+  ,
+  
+    "uf": "PB"
+  ,
+  
+    "cidade": "João Pessoa"
+  
+},
+{
+  
+    "gid": "270"
+  ,
+  
+    "lat": "-2.5277756"
+  ,
+  
+    "long": "-50.8456323"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV FLORIANO PEIXOTO SN"
+  ,
+  
+    "nu_cep_farmacia": "68480000"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Portel"
+  
+},
+{
+  
+    "gid": "259"
+  ,
+  
+    "lat": "-1.9207489"
+  ,
+  
+    "long": "-49.1221414"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA PADRE VITÓRIO SN"
+  ,
+  
+    "nu_cep_farmacia": "68430000"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Igarapé-Miri"
+  
+},
+{
+  
+    "gid": "235"
+  ,
+  
+    "lat": "-1.3530345"
+  ,
+  
+    "long": "-48.3713774"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ZACARIAS DE ASSUNC O"
+  ,
+  
+    "nu_cep_farmacia": "67030970"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Ananindeua"
+  
+},
+{
+  
+    "gid": "184"
+  ,
+  
+    "lat": "-19.2258089"
+  ,
+  
+    "long": "-41.6365788"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MARIA FRANCISCA DE J"
+  ,
+  
+    "nu_cep_farmacia": "3524000"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Conselheiro Pena"
+  
+},
+{
+  
+    "gid": "86"
+  ,
+  
+    "lat": "-14.8619367"
+  ,
+  
+    "long": "-40.8348715"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRACA VITOR BRITO, Nº 06 A"
+  ,
+  
+    "nu_cep_farmacia": "45020756"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Vitória da Conquista"
+  
+},
+{
+  
+    "gid": "125"
+  ,
+  
+    "lat": "-20.3166748"
+  ,
+  
+    "long": "-40.3458631"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV PRESIDENTE FLORENTINO AVIDOS Nº 321"
+  ,
+  
+    "nu_cep_farmacia": "29018190"
+  ,
+  
+    "uf": "ES"
+  ,
+  
+    "cidade": "Vitória"
+  
+},
+{
+  
+    "gid": "53"
+  ,
+  
+    "lat": "-9.4150066"
+  ,
+  
+    "long": "-40.5101704"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRACA PEDRO PEREIRA PRIMO S/N"
+  ,
+  
+    "nu_cep_farmacia": "48903970"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Juazeiro"
+  
+},
+{
+  
+    "gid": "328"
+  ,
+  
+    "lat": "-5.0587533"
+  ,
+  
+    "long": "-42.7637913"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA OSVALDO COSTA E SILVA S/N"
+  ,
+  
+    "nu_cep_farmacia": "64055410"
+  ,
+  
+    "uf": "PI"
+  ,
+  
+    "cidade": "Teresina"
+  
+},
+{
+  
+    "gid": "327"
+  ,
+  
+    "lat": "-5.091331"
+  ,
+  
+    "long": "-42.7956044"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "R FELIX PACHECO, 1530"
+  ,
+  
+    "nu_cep_farmacia": "64001160"
+  ,
+  
+    "uf": "PI"
+  ,
+  
+    "cidade": "Teresina"
+  
+},
+{
+  
+    "gid": "197"
+  ,
+  
+    "lat": "-16.7031651"
+  ,
+  
+    "long": "-43.8434361"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CONEGO CHAVES Nº 309"
+  ,
+  
+    "nu_cep_farmacia": "39400433"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Montes Claros"
+  
+},
+{
+  
+    "gid": "288"
+  ,
+  
+    "lat": "-7.2186163"
+  ,
+  
+    "long": "-35.9032676"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ALMIRANTE BARROSO 355"
+  ,
+  
+    "nu_cep_farmacia": "58105341"
+  ,
+  
+    "uf": "PB"
+  ,
+  
+    "cidade": "Campina Grande"
+  
+},
+{
+  
+    "gid": "157"
+  ,
+  
+    "lat": "-4.497279"
+  ,
+  
+    "long": "-45.2243578"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SENADOR VITORINO FREIRE S/N"
+  ,
+  
+    "nu_cep_farmacia": "65715000"
+  ,
+  
+    "uf": "MA"
+  ,
+  
+    "cidade": "Lago da Pedra"
+  
+},
+{
+  
+    "gid": "166"
+  ,
+  
+    "lat": "-2.538834"
+  ,
+  
+    "long": "-44.2692196"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA DOS FRANCESES Nº 375 A LOJA 04"
+  ,
+  
+    "nu_cep_farmacia": "65036280"
+  ,
+  
+    "uf": "MA"
+  ,
+  
+    "cidade": "São Luís"
+  
+},
+{
+  
+    "gid": "387"
+  ,
+  
+    "lat": "-5.1880361"
+  ,
+  
+    "long": "-37.3441344"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DESEMBARGADOR DIONISIO FIGUEIRA Nº 291"
+  ,
+  
+    "nu_cep_farmacia": "59610090"
+  ,
+  
+    "uf": "RN"
+  ,
+  
+    "cidade": "Mossoró"
+  
+},
+{
+  
+    "gid": "52"
+  ,
+  
+    "lat": "-13.860509"
+  ,
+  
+    "long": "-40.0850925"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA PRESIDENTE DUTRA"
+  ,
+  
+    "nu_cep_farmacia": "45200170"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Jequié"
+  
+},
+{
+  
+    "gid": "248"
+  ,
+  
+    "lat": "-1.456823"
+  ,
+  
+    "long": "-48.4412549"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SAO DOMINGOS, Nº 840"
+  ,
+  
+    "nu_cep_farmacia": "66077650"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Belém"
+  
+},
+{
+  
+    "gid": "156"
+  ,
+  
+    "lat": "-3.4543432"
+  ,
+  
+    "long": "-44.1720266"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CORNEL CATAO SNº"
+  ,
+  
+    "nu_cep_farmacia": "65485000"
+  ,
+  
+    "uf": "MA"
+  ,
+  
+    "cidade": "Itapecuru Mirim"
+  
+},
+{
+  
+    "gid": "266"
+  ,
+  
+    "lat": "-1.1089868"
+  ,
+  
+    "long": "-54.2593118"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRACA FERNANDO GUILHON S"
+  ,
+  
+    "nu_cep_farmacia": "68220000"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Monte Alegre"
+  
+},
+{
+  
+    "gid": "345"
+  ,
+  
+    "lat": "-22.5466601"
+  ,
+  
+    "long": "-44.1805437"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA TENENTE JOSE EDUARDO Nº 461"
+  ,
+  
+    "nu_cep_farmacia": "27345250"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Barra Mansa"
+  
+},
+{
+  
+    "gid": "114"
+  ,
+  
+    "lat": "-3.6823593"
+  ,
+  
+    "long": "-40.3537822"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "CONSELHEIRO JOSE JULHO Nº 887"
+  ,
+  
+    "nu_cep_farmacia": "62010820"
+  ,
+  
+    "uf": "CE"
+  ,
+  
+    "cidade": "Sobral"
+  
+},
+{
+  
+    "gid": "42"
+  ,
+  
+    "lat": "-14.7724278"
+  ,
+  
+    "long": "-39.0580511"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "CENTRAL DE ABASTECIMENTO DO MALHADO - PAVILHÃO A, S/N"
+  ,
+  
+    "nu_cep_farmacia": "45651250"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Ilhéus"
+  
+},
+{
+  
+    "gid": "263"
+  ,
+  
+    "lat": "-1.4081702"
+  ,
+  
+    "long": "-48.4319297"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "FOLHA 31 QUADRA 11 LOTE"
+  ,
+  
+    "nu_cep_farmacia": "68507560"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Marabá"
+  
+},
+{
+  
+    "gid": "322"
+  ,
+  
+    "lat": "-7.06175"
+  ,
+  
+    "long": "-41.524971"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA OLAVO BILAC SN"
+  ,
+  
+    "nu_cep_farmacia": "6460000"
+  ,
+  
+    "uf": "PI"
+  ,
+  
+    "cidade": "Picos"
+  
+},
+{
+  
+    "gid": "29"
+  ,
+  
+    "lat": "-12.1444393"
+  ,
+  
+    "long": "-44.9965028"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRACA CORONEL ANTONIO BALBINO Nº 41"
+  ,
+  
+    "nu_cep_farmacia": "47800050"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Barreiras"
+  
+},
+{
+  
+    "gid": "158"
+  ,
+  
+    "lat": "-2.5000299"
+  ,
+  
+    "long": "-44.1150413"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA 03 N 19 CONJUNTO MAIBOÃO"
+  ,
+  
+    "nu_cep_farmacia": "65130000"
+  ,
+  
+    "uf": "MA"
+  ,
+  
+    "cidade": "Paço do Lumiar"
+  
+},
+{
+  
+    "gid": "393"
+  ,
+  
+    "lat": "-5.7853957"
+  ,
+  
+    "long": "-35.2066038"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA PRINCESA ISABEL,Nº 483"
+  ,
+  
+    "nu_cep_farmacia": "59025400"
+  ,
+  
+    "uf": "RN"
+  ,
+  
+    "cidade": "Natal"
+  
+},
+{
+  
+    "gid": "74"
+  ,
+  
+    "lat": "-13.0113641"
+  ,
+  
+    "long": "-38.4734227"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA REINALDO DE MATOS, 5 - CENTRO COM. AMARALINA"
+  ,
+  
+    "nu_cep_farmacia": "41900170"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "343"
+  ,
+  
+    "lat": "-22.4596368"
+  ,
+  
+    "long": "-43.8314886"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA BARAO DO RIO BONITO Nº 72"
+  ,
+  
+    "nu_cep_farmacia": "27113040"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Barra do Piraí"
+  
+},
+{
+  
+    "gid": "316"
+  ,
+  
+    "lat": "-9.3811538"
+  ,
+  
+    "long": "-40.5305175"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MARTINHO CANDIDO SN COHAB MASSANGANO"
+  ,
+  
+    "nu_cep_farmacia": "56310270"
+  ,
+  
+    "uf": "PE"
+  ,
+  
+    "cidade": "Petrolina"
+  
+},
+{
+  
+    "gid": "89"
+  ,
+  
+    "lat": "-3.9997372"
+  ,
+  
+    "long": "-38.4429274"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA VIRGILIO COELHO N 15"
+  ,
+  
+    "nu_cep_farmacia": "61700000"
+  ,
+  
+    "uf": "CE"
+  ,
+  
+    "cidade": "Aquiraz"
+  
+},
+{
+  
+    "gid": "54"
+  ,
+  
+    "lat": "-9.4444512"
+  ,
+  
+    "long": "-40.4898162"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RODOVIA JUAZEIRO CURACA KM 01 Nº 9"
+  ,
+  
+    "nu_cep_farmacia": "48907630"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Juazeiro"
+  
+},
+{
+  
+    "gid": "71"
+  ,
+  
+    "lat": "-12.8997915"
+  ,
+  
+    "long": "-38.4205695"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DA PACIÊNCIA, 04 COLETORA 04 SETOR B"
+  ,
+  
+    "nu_cep_farmacia": "41338700"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "275"
+  ,
+  
+    "lat": "-9.2291157"
+  ,
+  
+    "long": "-50.5135589"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVJOSÉ MENDONÇA,224 SL 1 E 2"
+  ,
+  
+    "nu_cep_farmacia": "68560"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Santana do Araguaia"
+  
+},
+{
+  
+    "gid": "279"
+  ,
+  
+    "lat": "-3.7590857"
+  ,
+  
+    "long": "-49.6694446"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SANTO ANTONIO, N 497"
+  ,
+  
+    "nu_cep_farmacia": "68458030"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Tucuruí"
+  
+},
+{
+  
+    "gid": "32"
+  ,
+  
+    "lat": "-12.7073296"
+  ,
+  
+    "long": "-38.3231594"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA TUPINAMBA N 43"
+  ,
+  
+    "nu_cep_farmacia": "42800140"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Camaçari"
+  
+},
+{
+  
+    "gid": "69"
+  ,
+  
+    "lat": "-12.9210941"
+  ,
+  
+    "long": "-38.5001028"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "LARGO DA RIBEIRA S/N CEASA"
+  ,
+  
+    "nu_cep_farmacia": "40421530"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "167"
+  ,
+  
+    "lat": "-2.534633"
+  ,
+  
+    "long": "-44.3035453"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRACA JOAO LISBOA N 53"
+  ,
+  
+    "nu_cep_farmacia": "65010000"
+  ,
+  
+    "uf": "MA"
+  ,
+  
+    "cidade": "São Luís"
+  
+},
+{
+  
+    "gid": "12"
+  ,
+  
+    "lat": "-4.8798602"
+  ,
+  
+    "long": "-64.7162415"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "ESTRADA MAMIA, SN"
+  ,
+  
+    "nu_cep_farmacia": "69460000"
+  ,
+  
+    "uf": "AM"
+  ,
+  
+    "cidade": "Coari"
+  
+},
+{
+  
+    "gid": "241"
+  ,
+  
+    "lat": "-1.4617654"
+  ,
+  
+    "long": "-48.4574892"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "TVCARLOS BENTES,S/N DISTRITO DE MOSQUEIRO"
+  ,
+  
+    "nu_cep_farmacia": "66914050"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Belém"
+  
+},
+{
+  
+    "gid": "95"
+  ,
+  
+    "lat": "-3.7329267"
+  ,
+  
+    "long": "-38.6713321"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA JUACI SAMPAIO PONTES 1800"
+  ,
+  
+    "nu_cep_farmacia": "61610140"
+  ,
+  
+    "uf": "CE"
+  ,
+  
+    "cidade": "Caucaia"
+  
+},
+{
+  
+    "gid": "22"
+  ,
+  
+    "lat": "-2.6272387"
+  ,
+  
+    "long": "-56.7229552"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA PARAIBA Nº 1615"
+  ,
+  
+    "nu_cep_farmacia": "69153010"
+  ,
+  
+    "uf": "AM"
+  ,
+  
+    "cidade": "Parintins"
+  
+},
+{
+  
+    "gid": "267"
+  ,
+  
+    "lat": "0.5080915"
+  ,
+  
+    "long": "-57.6439048"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "TR ANTONIO DE SOUZA BENTES S/N"
+  ,
+  
+    "nu_cep_farmacia": "68270000"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Oriximiná"
+  
+},
+{
+  
+    "gid": "302"
+  ,
+  
+    "lat": "-7.1660303"
+  ,
+  
+    "long": "-34.9754651"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA JUAREZ TAVORA 164"
+  ,
+  
+    "nu_cep_farmacia": "58300410"
+  ,
+  
+    "uf": "PB"
+  ,
+  
+    "cidade": "Santa Rita"
+  
+},
+{
+  
+    "gid": "278"
+  ,
+  
+    "lat": "-2.6729327"
+  ,
+  
+    "long": "-48.2393528"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA FRANCISCO SOARES S/N"
+  ,
+  
+    "nu_cep_farmacia": "68680000"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Tomé-Açu"
+  
+},
+{
+  
+    "gid": "100"
+  ,
+  
+    "lat": "-3.779545"
+  ,
+  
+    "long": "-38.5559162"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA EDUARDO PERDIGAO Nº241 PARANGABA"
+  ,
+  
+    "nu_cep_farmacia": "60740010"
+  ,
+  
+    "uf": "CE"
+  ,
+  
+    "cidade": "Fortaleza"
+  
+},
+{
+  
+    "gid": "451"
+  ,
+  
+    "lat": "-10.2475973"
+  ,
+  
+    "long": "-36.8142605"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DOM JOSÉ VICENTE TAVORA,SN°"
+  ,
+  
+    "nu_cep_farmacia": "49900000"
+  ,
+  
+    "uf": "SE"
+  ,
+  
+    "cidade": "Propriá"
+  
+},
+{
+  
+    "gid": "164"
+  ,
+  
+    "lat": "-2.6987619"
+  ,
+  
+    "long": "-44.8317802"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PCA DE EVENTOS SN"
+  ,
+  
+    "nu_cep_farmacia": "6523500"
+  ,
+  
+    "uf": "MA"
+  ,
+  
+    "cidade": "São Bento"
+  
+},
+{
+  
+    "gid": "187"
+  ,
+  
+    "lat": "-19.480409"
+  ,
+  
+    "long": "-42.523742"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV JOAO VALENTIM PASCOAL Nº 103 A"
+  ,
+  
+    "nu_cep_farmacia": "35160003"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Ipatinga"
+  
+},
+{
+  
+    "gid": "120"
+  ,
+  
+    "lat": "-20.3388418"
+  ,
+  
+    "long": "-40.3675423"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ENGENHEIRO JOSE SERTAO Nº 42"
+  ,
+  
+    "nu_cep_farmacia": "29140180"
+  ,
+  
+    "uf": "ES"
+  ,
+  
+    "cidade": "Cariacica"
+  
+},
+{
+  
+    "gid": "76"
+  ,
+  
+    "lat": "-12.9311523"
+  ,
+  
+    "long": "-38.5106125"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV. LUIZ TARQUINIO, S/N LARGO DE ROMA - HOSP. IRMÃ DULCE"
+  ,
+  
+    "nu_cep_farmacia": "40414120"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "324"
+  ,
+  
+    "lat": "-5.1106204"
+  ,
+  
+    "long": "-42.7479203"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CINQUENTA E QUATRO S/N"
+  ,
+  
+    "nu_cep_farmacia": "64079345"
+  ,
+  
+    "uf": "PI"
+  ,
+  
+    "cidade": "Teresina"
+  
+},
+{
+  
+    "gid": "34"
+  ,
+  
+    "lat": "-12.9795126"
+  ,
+  
+    "long": "-39.2640013"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRAÇA SENADOR TEMISTOCLES Nº 756 SEDE"
+  ,
+  
+    "nu_cep_farmacia": "4438000"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Cruz das Almas"
+  
+},
+{
+  
+    "gid": "20"
+  ,
+  
+    "lat": "-2.9914283"
+  ,
+  
+    "long": "-60.0230559"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SAMAMBAIA Nº 816 CASA 07"
+  ,
+  
+    "nu_cep_farmacia": "69059500"
+  ,
+  
+    "uf": "AM"
+  ,
+  
+    "cidade": "Manaus"
+  
+},
+{
+  
+    "gid": "191"
+  ,
+  
+    "lat": "-21.7645228"
+  ,
+  
+    "long": "-43.354809"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ESPIRITO SANTO N 1064"
+  ,
+  
+    "nu_cep_farmacia": "36016200"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Juiz de Fora"
+  
+},
+{
+  
+    "gid": "10"
+  ,
+  
+    "lat": "-9.6700201"
+  ,
+  
+    "long": "-35.7151604"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA VEREADOR MIGUEL TAVARES, Nº398"
+  ,
+  
+    "nu_cep_farmacia": "57625000"
+  ,
+  
+    "uf": "AL"
+  ,
+  
+    "cidade": "Teotônio Vilela"
+  
+},
+{
+  
+    "gid": "287"
+  ,
+  
+    "lat": "-7.2186163"
+  ,
+  
+    "long": "-35.9032676"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA VITORINA BARRETO DE OLIVEIRA Nº 204"
+  ,
+  
+    "nu_cep_farmacia": "58108185"
+  ,
+  
+    "uf": "PB"
+  ,
+  
+    "cidade": "Campina Grande"
+  
+},
+{
+  
+    "gid": "62"
+  ,
+  
+    "lat": "-12.9529647"
+  ,
+  
+    "long": "-38.4705355"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA BARROS REIS SN"
+  ,
+  
+    "nu_cep_farmacia": "41185300"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "313"
+  ,
+  
+    "lat": "-8.0127621"
+  ,
+  
+    "long": "-34.8472401"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA JOAQUIM NABUCO S/N ARMAZEM MERCADO PUBLICO"
+  ,
+  
+    "nu_cep_farmacia": "53120010"
+  ,
+  
+    "uf": "PE"
+  ,
+  
+    "cidade": "Olinda"
+  
+},
+{
+  
+    "gid": "63"
+  ,
+  
+    "lat": "-12.9740831"
+  ,
+  
+    "long": "-38.4310918"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA PROFESSOR PINTO DE AGUIAR S/N"
+  ,
+  
+    "nu_cep_farmacia": "41710000"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "349"
+  ,
+  
+    "lat": "-22.8621116"
+  ,
+  
+    "long": "-42.0212609"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ESTRADA DE BUZIOS JARDIM ESPERANÇA"
+  ,
+  
+    "nu_cep_farmacia": "28922270"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Cabo Frio"
+  
+},
+{
+  
+    "gid": "211"
+  ,
+  
+    "lat": "-19.455961"
+  ,
+  
+    "long": "-44.2431628"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DR PEDRO LUIZ 559"
+  ,
+  
+    "nu_cep_farmacia": "35700004"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Sete Lagoas"
+  
+},
+{
+  
+    "gid": "176"
+  ,
+  
+    "lat": "-19.9309713"
+  ,
+  
+    "long": "-43.9448709"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA RIO GRANDE DO SUL Nº 54"
+  ,
+  
+    "nu_cep_farmacia": "30170110"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Belo Horizonte"
+  
+},
+{
+  
+    "gid": "61"
+  ,
+  
+    "lat": "-12.8592603"
+  ,
+  
+    "long": "-38.4626486"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA 2 DE JULHO Nº 620 LOTE PARQUE CARVALHO QD 18"
+  ,
+  
+    "nu_cep_farmacia": "40750630"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "91"
+  ,
+  
+    "lat": "-7.3147428"
+  ,
+  
+    "long": "-39.2972082"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DIVINO SALVADOR, SN"
+  ,
+  
+    "nu_cep_farmacia": "6318000"
+  ,
+  
+    "uf": "CE"
+  ,
+  
+    "cidade": "Barbalha"
+  
+},
+{
+  
+    "gid": "285"
+  ,
+  
+    "lat": "-7.2186163"
+  ,
+  
+    "long": "-35.9032676"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CAMPOS SALES 138"
+  ,
+  
+    "nu_cep_farmacia": "58104053"
+  ,
+  
+    "uf": "PB"
+  ,
+  
+    "cidade": "Campina Grande"
+  
+},
+{
+  
+    "gid": "78"
+  ,
+  
+    "lat": "-12.9688312"
+  ,
+  
+    "long": "-39.2574511"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "ALLAN KARDECK N 264"
+  ,
+  
+    "nu_cep_farmacia": "4457108"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Santo Antônio de Jesus"
+  
+},
+{
+  
+    "gid": "325"
+  ,
+  
+    "lat": "-5.0363757"
+  ,
+  
+    "long": "-42.8199107"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV DR ANTONIO PEREIRA MARTINS S/N"
+  ,
+  
+    "nu_cep_farmacia": "64008190"
+  ,
+  
+    "uf": "PI"
+  ,
+  
+    "cidade": "Teresina"
+  
+},
+{
+  
+    "gid": "6"
+  ,
+  
+    "lat": "-9.5410775"
+  ,
+  
+    "long": "-35.7229421"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA BENEDITO BENTES Nº 136"
+  ,
+  
+    "nu_cep_farmacia": "57084050"
+  ,
+  
+    "uf": "AL"
+  ,
+  
+    "cidade": "Maceió"
+  
+},
+{
+  
+    "gid": "98"
+  ,
+  
+    "lat": "-7.2324552"
+  ,
+  
+    "long": "-39.4101063"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA JOSE CARVALHO N 340"
+  ,
+  
+    "nu_cep_farmacia": "63100020"
+  ,
+  
+    "uf": "CE"
+  ,
+  
+    "cidade": "Crato"
+  
+},
+{
+  
+    "gid": "181"
+  ,
+  
+    "lat": "-19.7828992"
+  ,
+  
+    "long": "-42.1403768"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MARECHAL DEODORO DA ONESC Nº 59 LOJA 1,2"
+  ,
+  
+    "nu_cep_farmacia": "35300085"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Caratinga"
+  
+},
+{
+  
+    "gid": "193"
+  ,
+  
+    "lat": "-21.516582"
+  ,
+  
+    "long": "-42.65514"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA PLOBIO CORTES DE PAULA Nº 32"
+  ,
+  
+    "nu_cep_farmacia": "3670000"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Leopoldina"
+  
+},
+{
+  
+    "gid": "23"
+  ,
+  
+    "lat": "0.5582388"
+  ,
+  
+    "long": "-68.1431414"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA EDILSON GONCALVES, 215"
+  ,
+  
+    "nu_cep_farmacia": "69750000"
+  ,
+  
+    "uf": "AM"
+  ,
+  
+    "cidade": "São Gabriel da Cachoeira"
+  
+},
+{
+  
+    "gid": "389"
+  ,
+  
+    "lat": "-5.8396074"
+  ,
+  
+    "long": "-35.1901151"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA DAS FRONTEIRAS, Nº 700"
+  ,
+  
+    "nu_cep_farmacia": "59108355"
+  ,
+  
+    "uf": "RN"
+  ,
+  
+    "cidade": "Natal"
+  
+},
+{
+  
+    "gid": "245"
+  ,
+  
+    "lat": "-1.3042651"
+  ,
+  
+    "long": "-48.4812248"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MANOEL BARATA,1765"
+  ,
+  
+    "nu_cep_farmacia": "66812020"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Belém"
+  
+},
+{
+  
+    "gid": "202"
+  ,
+  
+    "lat": "-18.5926206"
+  ,
+  
+    "long": "-46.5203453"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PÇA DESEMBARGADOR FREDERICO, Nº 21"
+  ,
+  
+    "nu_cep_farmacia": "38700118"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Patos de Minas"
+  
+},
+{
+  
+    "gid": "65"
+  ,
+  
+    "lat": "-12.9297452"
+  ,
+  
+    "long": "-38.4192541"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA PERIQUITOS SN TERREO"
+  ,
+  
+    "nu_cep_farmacia": "41260340"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "281"
+  ,
+  
+    "lat": "-1.4391409"
+  ,
+  
+    "long": "-46.3624686"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA JUSTO CHERMONT SN"
+  ,
+  
+    "nu_cep_farmacia": "68620000"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Viseu"
+  
+},
+{
+  
+    "gid": "99"
+  ,
+  
+    "lat": "-3.7416377"
+  ,
+  
+    "long": "-38.5230905"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DO ROSÁRIO Nº283 TÉRREO"
+  ,
+  
+    "nu_cep_farmacia": "60055090"
+  ,
+  
+    "uf": "CE"
+  ,
+  
+    "cidade": "Fortaleza"
+  
+},
+{
+  
+    "gid": "24"
+  ,
+  
+    "lat": "-4.4606478"
+  ,
+  
+    "long": "-65.6658568"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA GETULIO VARGAS, 36"
+  ,
+  
+    "nu_cep_farmacia": "69470000"
+  ,
+  
+    "uf": "AM"
+  ,
+  
+    "cidade": "Tefé"
+  
+},
+{
+  
+    "gid": "397"
+  ,
+  
+    "lat": "-8.7528012"
+  ,
+  
+    "long": "-63.8679364"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA MAMORE Nº 3590"
+  ,
+  
+    "nu_cep_farmacia": "7891049"
+  ,
+  
+    "uf": "RO"
+  ,
+  
+    "cidade": "Porto Velho"
+  
+},
+{
+  
+    "gid": "85"
+  ,
+  
+    "lat": "-14.8498592"
+  ,
+  
+    "long": "-40.8535212"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV CEARA N 45"
+  ,
+  
+    "nu_cep_farmacia": "4502503"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Vitória da Conquista"
+  
+},
+{
+  
+    "gid": "2"
+  ,
+  
+    "lat": "-8.1727629"
+  ,
+  
+    "long": "-70.3536699"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA FLORIANO PEIXOTO N º 901"
+  ,
+  
+    "nu_cep_farmacia": "69808030"
+  ,
+  
+    "uf": "AC"
+  ,
+  
+    "cidade": "Rio Branco"
+  
+},
+{
+  
+    "gid": "218"
+  ,
+  
+    "lat": "-21.5576492"
+  ,
+  
+    "long": "-45.4345074"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SANTA RITA Nº 484"
+  ,
+  
+    "nu_cep_farmacia": "37002250"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Varginha"
+  
+},
+{
+  
+    "gid": "25"
+  ,
+  
+    "lat": "0.0272375"
+  ,
+  
+    "long": "-51.1245677"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA FAB, 1737"
+  ,
+  
+    "nu_cep_farmacia": "68906005"
+  ,
+  
+    "uf": "AP"
+  ,
+  
+    "cidade": "Macapá"
+  
+},
+{
+  
+    "gid": "67"
+  ,
+  
+    "lat": "-12.9542364"
+  ,
+  
+    "long": "-38.4495018"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV EDGARD SANTOS SN"
+  ,
+  
+    "nu_cep_farmacia": "41192005"
+  ,
+  
+    "uf": "BA"
+  ,
+  
+    "cidade": "Salvador"
+  
+},
+{
+  
+    "gid": "169"
+  ,
+  
+    "lat": "-3.7127631"
+  ,
+  
+    "long": "-43.8673222"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DR NINA RODRIGUES,20 B"
+  ,
+  
+    "nu_cep_farmacia": "65430000"
+  ,
+  
+    "uf": "MA"
+  ,
+  
+    "cidade": "Vargem Grande"
+  
+},
+{
+  
+    "gid": "314"
+  ,
+  
+    "lat": "-7.9378695"
+  ,
+  
+    "long": "-40.2271243"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRAÇA PADRE FRANCISCO PEDRO DA SILVA"
+  ,
+  
+    "nu_cep_farmacia": "56200000"
+  ,
+  
+    "uf": "PE"
+  ,
+  
+    "cidade": "Ouricuri"
+  
+},
+{
+  
+    "gid": "303"
+  ,
+  
+    "lat": "-6.7604571"
+  ,
+  
+    "long": "-38.2308837"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ODON BEZERRA N 07"
+  ,
+  
+    "nu_cep_farmacia": "58800130"
+  ,
+  
+    "uf": "PB"
+  ,
+  
+    "cidade": "Sousa"
+  
+},
+{
+  
+    "gid": "293"
+  ,
+  
+    "lat": "-7.0973916"
+  ,
+  
+    "long": "-34.8355672"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV D PEDRO II,"
+  ,
+  
+    "nu_cep_farmacia": "5801342"
+  ,
+  
+    "uf": "PB"
+  ,
+  
+    "cidade": "João Pessoa"
+  
+},
+{
+  
+    "gid": "170"
+  ,
+  
+    "lat": "-3.2329855"
+  ,
+  
+    "long": "-46.1326778"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVMILIAR,SN°BAIRRO VILA BEC"
+  ,
+  
+    "nu_cep_farmacia": "65365000"
+  ,
+  
+    "uf": "MA"
+  ,
+  
+    "cidade": "Zé Doca"
+  
+},
+{
+  
+    "gid": "18"
+  ,
+  
+    "lat": "-3.0285642"
+  ,
+  
+    "long": "-60.0201653"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV BRASIL Nº 1325"
+  ,
+  
+    "nu_cep_farmacia": "69039110"
+  ,
+  
+    "uf": "AM"
+  ,
+  
+    "cidade": "Manaus"
+  
+},
+{
+  
+    "gid": "206"
+  ,
+  
+    "lat": "-19.8057804"
+  ,
+  
+    "long": "-44.0270562"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA JOAO DE DEUS GOMES Nº 30 A"
+  ,
+  
+    "nu_cep_farmacia": "33943720"
+  ,
+  
+    "uf": "MG"
+  ,
+  
+    "cidade": "Ribeirão das Neves"
+  
+},
+{
+  
+    "gid": "238"
+  ,
+  
+    "lat": "-1.3942283"
+  ,
+  
+    "long": "-48.4212808"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA LIBERDADE, N 672"
+  ,
+  
+    "nu_cep_farmacia": "67010250"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Ananindeua"
+  
+},
+{
+  
+    "gid": "118"
+  ,
+  
+    "lat": "-20.8478935"
+  ,
+  
+    "long": "-41.1162273"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRAÇA DE JERONIMO MONTEIRO Nº 101 ED. MAX TERREO"
+  ,
+  
+    "nu_cep_farmacia": "29300205"
+  ,
+  
+    "uf": "ES"
+  ,
+  
+    "cidade": "Cachoeiro de Itapemirim"
+  
+},
+{
+  
+    "gid": "286"
+  ,
+  
+    "lat": "-7.2186163"
+  ,
+  
+    "long": "-35.9032676"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "R QUINZE DE NOVEMBRO, Nº 956"
+  ,
+  
+    "nu_cep_farmacia": "58102300"
+  ,
+  
+    "uf": "PB"
+  ,
+  
+    "cidade": "Campina Grande"
+  
+},
+{
+  
+    "gid": "489"
+  ,
+  
+    "lat": "-22.2983392"
+  ,
+  
+    "long": "-48.5528254"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MARECHAL BITTENCOURT Nº 70"
+  ,
+  
+    "nu_cep_farmacia": "17201430"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Jaú"
+  
+},
+{
+  
+    "gid": "137"
+  ,
+  
+    "lat": "-16.28488"
+  ,
+  
+    "long": "-48.9721848"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "QUADRA 06 MC LOTE 06"
+  ,
+  
+    "nu_cep_farmacia": "73752106"
+  ,
+  
+    "uf": "GO"
+  ,
+  
+    "cidade": "Planaltina"
+  
+},
+{
+  
+    "gid": "370"
+  ,
+  
+    "lat": "-22.8131062"
+  ,
+  
+    "long": "-43.2207073"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRAIA DO GALEAO, 92"
+  ,
+  
+    "nu_cep_farmacia": "21941510"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Rio de Janeiro"
+  
+},
+{
+  
+    "gid": "423"
+  ,
+  
+    "lat": "-29.7637086"
+  ,
+  
+    "long": "-51.1559259"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SALDANHA DA GAMA, 817"
+  ,
+  
+    "nu_cep_farmacia": "93010020"
+  ,
+  
+    "uf": "RS"
+  ,
+  
+    "cidade": "São Leopoldo"
+  
+},
+{
+  
+    "gid": "353"
+  ,
+  
+    "lat": "-22.8709554"
+  ,
+  
+    "long": "-43.778885"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CORONEL FREITAS Nº 783"
+  ,
+  
+    "nu_cep_farmacia": "23815260"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Itaguaí"
+  
+},
+{
+  
+    "gid": "517"
+  ,
+  
+    "lat": "-22.0157824"
+  ,
+  
+    "long": "-47.8847321"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRACA PAUL PERCY HARRIS S/N"
+  ,
+  
+    "nu_cep_farmacia": "15010011"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São José do Rio Preto"
+  
+},
+{
+  
+    "gid": "413"
+  ,
+  
+    "lat": "-30.0310388"
+  ,
+  
+    "long": "-51.2173798"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA RAMIRO BARCELOS Nº 2500"
+  ,
+  
+    "nu_cep_farmacia": "90035003"
+  ,
+  
+    "uf": "RS"
+  ,
+  
+    "cidade": "Porto Alegre"
+  
+},
+{
+  
+    "gid": "495"
+  ,
+  
+    "lat": "-22.4361928"
+  ,
+  
+    "long": "-46.9621201"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MARCILIANO 372"
+  ,
+  
+    "nu_cep_farmacia": "13800012"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Moji Mirim"
+  
+},
+{
+  
+    "gid": "484"
+  ,
+  
+    "lat": "-23.7908044"
+  ,
+  
+    "long": "-46.6395285"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA PIRACICABA Nº 146"
+  ,
+  
+    "nu_cep_farmacia": "8570050"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Itaquaquecetuba"
+  
+},
+{
+  
+    "gid": "501"
+  ,
+  
+    "lat": "-23.7110008"
+  ,
+  
+    "long": "-46.4159681"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV SANTO ANDRE Nº 238"
+  ,
+  
+    "nu_cep_farmacia": "9420000"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Ribeirão Pires"
+  
+},
+{
+  
+    "gid": "354"
+  ,
+  
+    "lat": "-22.6508601"
+  ,
+  
+    "long": "-43.6591202"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV LENY FERREIRA, Nº 230"
+  ,
+  
+    "nu_cep_farmacia": "26435210"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Japeri"
+  
+},
+{
+  
+    "gid": "499"
+  ,
+  
+    "lat": "-22.9181418"
+  ,
+  
+    "long": "-45.4580466"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DOUTOR MONTEIRO DE GODOY Nº 349/351"
+  ,
+  
+    "nu_cep_farmacia": "12401390"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Pindamonhangaba"
+  
+},
+{
+  
+    "gid": "512"
+  ,
+  
+    "lat": "-23.6434885"
+  ,
+  
+    "long": "-46.5834969"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA PIAGENTINI,Nº 138"
+  ,
+  
+    "nu_cep_farmacia": "9626130"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Bernardo do Campo"
+  
+},
+{
+  
+    "gid": "432"
+  ,
+  
+    "lat": "-26.9859975"
+  ,
+  
+    "long": "-48.6363818"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA 620 Nº 250 ESQUINA COM A 4º AVENIDA DO BAIRRO"
+  ,
+  
+    "nu_cep_farmacia": "88330104"
+  ,
+  
+    "uf": "SC"
+  ,
+  
+    "cidade": "Balneário Camboriú"
+  
+},
+{
+  
+    "gid": "132"
+  ,
+  
+    "lat": "-16.6629826"
+  ,
+  
+    "long": "-49.2651348"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV. INDEPENDÊNCIA, Nº 4517  QUADRA 134 LOTE 29"
+  ,
+  
+    "nu_cep_farmacia": "74055050"
+  ,
+  
+    "uf": "GO"
+  ,
+  
+    "cidade": "Goiânia"
+  
+},
+{
+  
+    "gid": "529"
+  ,
+  
+    "lat": "-23.602721"
+  ,
+  
+    "long": "-46.5975964"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "LARGO DO ROSARIO, Nº 121"
+  ,
+  
+    "nu_cep_farmacia": "3634020"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Paulo"
+  
+},
+{
+  
+    "gid": "471"
+  ,
+  
+    "lat": "-23.5422696"
+  ,
+  
+    "long": "-46.3671102"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SANTOS DUMONT, 1161"
+  ,
+  
+    "nu_cep_farmacia": "8530000"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Ferraz de Vasconcelos"
+  
+},
+{
+  
+    "gid": "439"
+  ,
+  
+    "lat": "-27.8128864"
+  ,
+  
+    "long": "-50.3236733"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CAETANO VIEIRA DA COSTA Nº 883"
+  ,
+  
+    "nu_cep_farmacia": "88502070"
+  ,
+  
+    "uf": "SC"
+  ,
+  
+    "cidade": "Lages"
+  
+},
+{
+  
+    "gid": "513"
+  ,
+  
+    "lat": "-23.6434885"
+  ,
+  
+    "long": "-46.5834969"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MARECHAL DEODORO Nº 1056"
+  ,
+  
+    "nu_cep_farmacia": "9721230"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Bernardo do Campo"
+  
+},
+{
+  
+    "gid": "334"
+  ,
+  
+    "lat": "-25.4282779"
+  ,
+  
+    "long": "-49.2714702"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CANDIDO LOPES, 208 - TÉRREO"
+  ,
+  
+    "nu_cep_farmacia": "80020060"
+  ,
+  
+    "uf": "PR"
+  ,
+  
+    "cidade": "Curitiba"
+  
+},
+{
+  
+    "gid": "434"
+  ,
+  
+    "lat": "-27.1120751"
+  ,
+  
+    "long": "-52.6039235"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV NEREU RAMOS, 973-D"
+  ,
+  
+    "nu_cep_farmacia": "89812110"
+  ,
+  
+    "uf": "SC"
+  ,
+  
+    "cidade": "Chapecó"
+  
+},
+{
+  
+    "gid": "524"
+  ,
+  
+    "lat": "-23.602721"
+  ,
+  
+    "long": "-46.5975964"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA SAO JOAO Nº 35 LOJA 11"
+  ,
+  
+    "nu_cep_farmacia": "1011000"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Paulo"
+  
+},
+{
+  
+    "gid": "337"
+  ,
+  
+    "lat": "-23.4272152"
+  ,
+  
+    "long": "-51.9394126"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV MONTEIRO LOBATO 1120"
+  ,
+  
+    "nu_cep_farmacia": "8705028"
+  ,
+  
+    "uf": "PR"
+  ,
+  
+    "cidade": "Maringá"
+  
+},
+{
+  
+    "gid": "511"
+  ,
+  
+    "lat": "-23.6434885"
+  ,
+  
+    "long": "-46.5834969"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA RIO ACIMA,Nº 622"
+  ,
+  
+    "nu_cep_farmacia": "9830100"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Bernardo do Campo"
+  
+},
+{
+  
+    "gid": "131"
+  ,
+  
+    "lat": "-15.5591622"
+  ,
+  
+    "long": "-47.3266162"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV JOAO ISPER GERBRIM Nº 455"
+  ,
+  
+    "nu_cep_farmacia": "73813470"
+  ,
+  
+    "uf": "GO"
+  ,
+  
+    "cidade": "Formosa"
+  
+},
+{
+  
+    "gid": "401"
+  ,
+  
+    "lat": "-31.3317595"
+  ,
+  
+    "long": "-54.1038619"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA GENERAL JOAO TELES Nº 862"
+  ,
+  
+    "nu_cep_farmacia": "96400902"
+  ,
+  
+    "uf": "RS"
+  ,
+  
+    "cidade": "Bagé"
+  
+},
+{
+  
+    "gid": "536"
+  ,
+  
+    "lat": "-23.5543289"
+  ,
+  
+    "long": "-46.3204991"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ESTRADA DO KOYAMA Nº 81"
+  ,
+  
+    "nu_cep_farmacia": "8633435"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Suzano"
+  
+},
+{
+  
+    "gid": "366"
+  ,
+  
+    "lat": "-22.466653"
+  ,
+  
+    "long": "-44.4582937"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA JOAO FERREIRA PINTO Nº 87"
+  ,
+  
+    "nu_cep_farmacia": "27510071"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Resende"
+  
+},
+{
+  
+    "gid": "365"
+  ,
+  
+    "lat": "-22.7206969"
+  ,
+  
+    "long": "-43.5546867"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MANOEL AUGUSTO MUGUET Nº 280"
+  ,
+  
+    "nu_cep_farmacia": "26325250"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Queimados"
+  
+},
+{
+  
+    "gid": "533"
+  ,
+  
+    "lat": "-22.8169239"
+  ,
+  
+    "long": "-47.2701064"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA IPIRANGA 334"
+  ,
+  
+    "nu_cep_farmacia": "13170026"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Sumaré"
+  
+},
+{
+  
+    "gid": "541"
+  ,
+  
+    "lat": "-22.9763629"
+  ,
+  
+    "long": "-47.0060226"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA JOSÉ MILANI,155"
+  ,
+  
+    "nu_cep_farmacia": "13270200"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Valinhos"
+  
+},
+{
+  
+    "gid": "506"
+  ,
+  
+    "lat": "-22.763025"
+  ,
+  
+    "long": "-47.4147321"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRACA JOAO XXIII S/N"
+  ,
+  
+    "nu_cep_farmacia": "13450018"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Santa Bárbara d'Oeste"
+  
+},
+{
+  
+    "gid": "507"
+  ,
+  
+    "lat": "-22.3439055"
+  ,
+  
+    "long": "-46.9443786"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CORONEL SEABRA Nº 321"
+  ,
+  
+    "nu_cep_farmacia": "9117000"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Santo André"
+  
+},
+{
+  
+    "gid": "496"
+  ,
+  
+    "lat": "-23.5376526"
+  ,
+  
+    "long": "-46.7888967"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV JOAO BATISTA N 99"
+  ,
+  
+    "nu_cep_farmacia": "6097090"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Osasco"
+  
+},
+{
+  
+    "gid": "538"
+  ,
+  
+    "lat": "-23.0309385"
+  ,
+  
+    "long": "-45.5483236"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DR JORGE WINTER Nº 232"
+  ,
+  
+    "nu_cep_farmacia": "12010120"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Taubaté"
+  
+},
+{
+  
+    "gid": "436"
+  ,
+  
+    "lat": "-27.5966"
+  ,
+  
+    "long": "-48.554914"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "FRANCISCO TOLENTINO LOJA 26 MERCADO PUBLICO"
+  ,
+  
+    "nu_cep_farmacia": "88010200"
+  ,
+  
+    "uf": "SC"
+  ,
+  
+    "cidade": "Florianópolis"
+  
+},
+{
+  
+    "gid": "502"
+  ,
+  
+    "lat": "-21.2633373"
+  ,
+  
+    "long": "-47.8056964"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRAÇA BONFIM Nº 216"
+  ,
+  
+    "nu_cep_farmacia": "14110000"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Ribeirão Preto"
+  
+},
+{
+  
+    "gid": "514"
+  ,
+  
+    "lat": "-23.6434885"
+  ,
+  
+    "long": "-46.5834969"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA ROBERT KENNEDY, Nº 3438"
+  ,
+  
+    "nu_cep_farmacia": "9860215"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Bernardo do Campo"
+  
+},
+{
+  
+    "gid": "406"
+  ,
+  
+    "lat": "-29.8377093"
+  ,
+  
+    "long": "-51.1716107"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV PRESIDENTE VARGAS,2504 LOJA 02"
+  ,
+  
+    "nu_cep_farmacia": "93260006"
+  ,
+  
+    "uf": "RS"
+  ,
+  
+    "cidade": "Esteio"
+  
+},
+{
+  
+    "gid": "486"
+  ,
+  
+    "lat": "-23.2602249"
+  ,
+  
+    "long": "-47.3002851"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRAÇA REGENTE FEIJO, Nº 52"
+  ,
+  
+    "nu_cep_farmacia": "13300489"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Itu"
+  
+},
+{
+  
+    "gid": "468"
+  ,
+  
+    "lat": "-22.5706165"
+  ,
+  
+    "long": "-44.9627584"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CAPITAO OTAVIO RAMOS Nº 281"
+  ,
+  
+    "nu_cep_farmacia": "12701360"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Cruzeiro"
+  
+},
+{
+  
+    "gid": "340"
+  ,
+  
+    "lat": "-25.0510714"
+  ,
+  
+    "long": "-50.1329473"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DR COLARES, Nº 25"
+  ,
+  
+    "nu_cep_farmacia": "8401001"
+  ,
+  
+    "uf": "PR"
+  ,
+  
+    "cidade": "Ponta Grossa"
+  
+},
+{
+  
+    "gid": "359"
+  ,
+  
+    "lat": "-22.8115519"
+  ,
+  
+    "long": "-43.4143649"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA FREI LUDOLF SN LOTE 90"
+  ,
+  
+    "nu_cep_farmacia": "26510660"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Nilópolis"
+  
+},
+{
+  
+    "gid": "516"
+  ,
+  
+    "lat": "-22.0157824"
+  ,
+  
+    "long": "-47.8847321"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SANTA CRUZ 198"
+  ,
+  
+    "nu_cep_farmacia": "13560680"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Carlos"
+  
+},
+{
+  
+    "gid": "520"
+  ,
+  
+    "lat": "-23.602721"
+  ,
+  
+    "long": "-46.5975964"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA FORCA PUBLICA, 64"
+  ,
+  
+    "nu_cep_farmacia": "2012080"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Paulo"
+  
+},
+{
+  
+    "gid": "510"
+  ,
+  
+    "lat": "-23.9561778"
+  ,
+  
+    "long": "-46.3121095"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DA CONSTITUIÇÃO,Nº 315"
+  ,
+  
+    "nu_cep_farmacia": "11015471"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Santos"
+  
+},
+{
+  
+    "gid": "515"
+  ,
+  
+    "lat": "-23.6246954"
+  ,
+  
+    "long": "-46.5475365"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SANTO ANTONIO, Nº 50"
+  ,
+  
+    "nu_cep_farmacia": "9521160"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Caetano do Sul"
+  
+},
+{
+  
+    "gid": "126"
+  ,
+  
+    "lat": "-16.3238612"
+  ,
+  
+    "long": "-48.951776"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "TRAVESSA OLIMPIO BARBOSA DE MELO Nº 63"
+  ,
+  
+    "nu_cep_farmacia": "75020090"
+  ,
+  
+    "uf": "GO"
+  ,
+  
+    "cidade": "Anápolis"
+  
+},
+{
+  
+    "gid": "382"
+  ,
+  
+    "lat": "-22.1262347"
+  ,
+  
+    "long": "-43.2207073"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "TRAVESSA AUGUSTO DE ALMEIDA Nº 37"
+  ,
+  
+    "nu_cep_farmacia": "25804130"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Três Rios"
+  
+},
+{
+  
+    "gid": "500"
+  ,
+  
+    "lat": "-23.5333005"
+  ,
+  
+    "long": "-46.3311047"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA VINTE E SEIS DE MARCO Nº 483"
+  ,
+  
+    "nu_cep_farmacia": "8562140"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Poá"
+  
+},
+{
+  
+    "gid": "116"
+  ,
+  
+    "lat": "-15.79211"
+  ,
+  
+    "long": "-47.897751"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "QUADRA 08 COMERCIO LOCAL 03 LOJA 03 SERRA VERDE"
+  ,
+  
+    "nu_cep_farmacia": "73055502"
+  ,
+  
+    "uf": "DF"
+  ,
+  
+    "cidade": "Brasília"
+  
+},
+{
+  
+    "gid": "480"
+  ,
+  
+    "lat": "-23.981256"
+  ,
+  
+    "long": "-48.879531"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA FLORIANO PEIXOTO Nº 86"
+  ,
+  
+    "nu_cep_farmacia": "18400240"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Itapeva"
+  
+},
+{
+  
+    "gid": "369"
+  ,
+  
+    "lat": "-22.8976297"
+  ,
+  
+    "long": "-43.1928756"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRAÇA CHRISTIANO OTTONI S/N ESTAÇÃO FERROVIARIA D. PEDRO II"
+  ,
+  
+    "nu_cep_farmacia": "20221250"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Rio de Janeiro"
+  
+},
+{
+  
+    "gid": "497"
+  ,
+  
+    "lat": "-23.5376526"
+  ,
+  
+    "long": "-46.7888967"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV DAS ESMERALDAS N 149 TERREO"
+  ,
+  
+    "nu_cep_farmacia": "6286010"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Osasco"
+  
+},
+{
+  
+    "gid": "505"
+  ,
+  
+    "lat": "-23.1993931"
+  ,
+  
+    "long": "-47.304585"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA DR BARROS JUNIOR Nº 247"
+  ,
+  
+    "nu_cep_farmacia": "13320220"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Salto"
+  
+},
+{
+  
+    "gid": "142"
+  ,
+  
+    "lat": "-16.0559357"
+  ,
+  
+    "long": "-48.004374"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA 73 QUADRA 109 LOTE 18 LOJA 01"
+  ,
+  
+    "nu_cep_farmacia": "72871073"
+  ,
+  
+    "uf": "GO"
+  ,
+  
+    "cidade": "Valparaíso de Goiás"
+  
+},
+{
+  
+    "gid": "456"
+  ,
+  
+    "lat": "-22.6667456"
+  ,
+  
+    "long": "-50.428232"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA ARMANDO SALES DE OLIVEIRA"
+  ,
+  
+    "nu_cep_farmacia": "19802080"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Assis"
+  
+},
+{
+  
+    "gid": "487"
+  ,
+  
+    "lat": "-23.406486"
+  ,
+  
+    "long": "-47.3486311"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RODOVIA WALDOMIRO CORREA CAMARGO Nº 14"
+  ,
+  
+    "nu_cep_farmacia": "13308104"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Itu"
+  
+},
+{
+  
+    "gid": "481"
+  ,
+  
+    "lat": "-23.5325624"
+  ,
+  
+    "long": "-46.9772966"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AVENIDA PRESIDENTE VARGAS Nº 270"
+  ,
+  
+    "nu_cep_farmacia": "6694040"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Itapevi"
+  
+},
+{
+  
+    "gid": "339"
+  ,
+  
+    "lat": "-25.5664615"
+  ,
+  
+    "long": "-48.571263"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA FELIPE CHEDE Nº 274"
+  ,
+  
+    "nu_cep_farmacia": "83215670"
+  ,
+  
+    "uf": "PR"
+  ,
+  
+    "cidade": "Paranaguá"
+  
+},
+{
+  
+    "gid": "461"
+  ,
+  
+    "lat": "-22.8841363"
+  ,
+  
+    "long": "-48.4412549"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRACA QUINZE DE NOVEMBRO Nº 53"
+  ,
+  
+    "nu_cep_farmacia": "18600031"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Botucatu"
+  
+},
+{
+  
+    "gid": "400"
+  ,
+  
+    "lat": "-29.7789303"
+  ,
+  
+    "long": "-55.7876454"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CORONEL CABRITA, N 141"
+  ,
+  
+    "nu_cep_farmacia": "97541100"
+  ,
+  
+    "uf": "RS"
+  ,
+  
+    "cidade": "Alegrete"
+  
+},
+{
+  
+    "gid": "525"
+  ,
+  
+    "lat": "-23.602721"
+  ,
+  
+    "long": "-46.5975964"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV DO CURSINO, 1274"
+  ,
+  
+    "nu_cep_farmacia": "4132000"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Paulo"
+  
+},
+{
+  
+    "gid": "422"
+  ,
+  
+    "lat": "-29.7637086"
+  ,
+  
+    "long": "-51.1559259"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV. Integração, 1008"
+  ,
+  
+    "nu_cep_farmacia": "93010020"
+  ,
+  
+    "uf": "RS"
+  ,
+  
+    "cidade": "São Leopoldo"
+  
+},
+{
+  
+    "gid": "135"
+  ,
+  
+    "lat": "-16.2511133"
+  ,
+  
+    "long": "-47.9274618"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA 04 QUADRA 14 LOTE 37 LOJA 4/5"
+  ,
+  
+    "nu_cep_farmacia": "72814590"
+  ,
+  
+    "uf": "GO"
+  ,
+  
+    "cidade": "Luziânia"
+  
+},
+{
+  
+    "gid": "221"
+  ,
+  
+    "lat": "-19.0050968"
+  ,
+  
+    "long": "-57.636529"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA 13 DE JUNHO 1288"
+  ,
+  
+    "nu_cep_farmacia": "7933005"
+  ,
+  
+    "uf": "MS"
+  ,
+  
+    "cidade": "Corumbá"
+  
+},
+{
+  
+    "gid": "467"
+  ,
+  
+    "lat": "-23.577352"
+  ,
+  
+    "long": "-46.927097"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ZACARIAS ANTONIO DA SILVA Nº 68"
+  ,
+  
+    "nu_cep_farmacia": "6716700"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Cotia"
+  
+},
+{
+  
+    "gid": "412"
+  ,
+  
+    "lat": "-28.2606602"
+  ,
+  
+    "long": "-52.4012669"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA FAGUNDES DOS REIS, 215"
+  ,
+  
+    "nu_cep_farmacia": "99010100"
+  ,
+  
+    "uf": "RS"
+  ,
+  
+    "cidade": "Passo Fundo"
+  
+},
+{
+  
+    "gid": "494"
+  ,
+  
+    "lat": "-22.7653095"
+  ,
+  
+    "long": "-47.387329"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SANTA HELENA,130"
+  ,
+  
+    "nu_cep_farmacia": "9390090"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Mauá"
+  
+},
+{
+  
+    "gid": "469"
+  ,
+  
+    "lat": "-23.6886288"
+  ,
+  
+    "long": "-46.5850799"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA PROFESSORA VITALINA CAIAFFA ESQUIVEL Nº 54"
+  ,
+  
+    "nu_cep_farmacia": "9911180"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Diadema"
+  
+},
+{
+  
+    "gid": "331"
+  ,
+  
+    "lat": "-24.0430804"
+  ,
+  
+    "long": "-52.3910015"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ARARUNA 805"
+  ,
+  
+    "nu_cep_farmacia": "87302210"
+  ,
+  
+    "uf": "PR"
+  ,
+  
+    "cidade": "Campo Mourão"
+  
+},
+{
+  
+    "gid": "437"
+  ,
+  
+    "lat": "-26.8929004"
+  ,
+  
+    "long": "-48.7015768"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CONEGO THOMAZ FONTES Nº 182"
+  ,
+  
+    "nu_cep_farmacia": "88310160"
+  ,
+  
+    "uf": "SC"
+  ,
+  
+    "cidade": "Itajaí"
+  
+},
+{
+  
+    "gid": "508"
+  ,
+  
+    "lat": "-22.3439055"
+  ,
+  
+    "long": "-46.9443786"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV PRINCIPE DE GALES Nº 821"
+  ,
+  
+    "nu_cep_farmacia": "9000000"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Santo André"
+  
+},
+{
+  
+    "gid": "138"
+  ,
+  
+    "lat": "-17.7926515"
+  ,
+  
+    "long": "-50.9328316"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA COSTA GOMES, 341"
+  ,
+  
+    "nu_cep_farmacia": "75901050"
+  ,
+  
+    "uf": "GO"
+  ,
+  
+    "cidade": "Rio Verde"
+  
+},
+{
+  
+    "gid": "464"
+  ,
+  
+    "lat": "-22.9025112"
+  ,
+  
+    "long": "-47.0570856"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA FERREIRA PENTEADO Nº 854"
+  ,
+  
+    "nu_cep_farmacia": "13010041"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Campinas"
+  
+},
+{
+  
+    "gid": "440"
+  ,
+  
+    "lat": "-27.6597149"
+  ,
+  
+    "long": "-48.673985"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA PREFEITO NELSON MARTINS, 235"
+  ,
+  
+    "nu_cep_farmacia": "88131300"
+  ,
+  
+    "uf": "SC"
+  ,
+  
+    "cidade": "Palhoça"
+  
+},
+{
+  
+    "gid": "472"
+  ,
+  
+    "lat": "-20.5293183"
+  ,
+  
+    "long": "-47.3887179"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRAÇA POMPILHO BESSA Nº 140"
+  ,
+  
+    "nu_cep_farmacia": "7901080"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Francisco Morato"
+  
+},
+{
+  
+    "gid": "482"
+  ,
+  
+    "lat": "-23.5325624"
+  ,
+  
+    "long": "-46.9772966"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA AMIRABILE CHALUPPE, Nº 8"
+  ,
+  
+    "nu_cep_farmacia": "6680420"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Itapevi"
+  
+},
+{
+  
+    "gid": "338"
+  ,
+  
+    "lat": "-23.410858"
+  ,
+  
+    "long": "-51.9447894"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV. COLOMBO, Nº 5790 BLOCO QUADRA 04 ANEXO ZONA 07 CAMPOS DA UNIVERSIDADE"
+  ,
+  
+    "nu_cep_farmacia": "87020900"
+  ,
+  
+    "uf": "PR"
+  ,
+  
+    "cidade": "Maringá"
+  
+},
+{
+  
+    "gid": "454"
+  ,
+  
+    "lat": "-21.203385"
+  ,
+  
+    "long": "-50.4439728"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SILVA JARDIM Nº 363"
+  ,
+  
+    "nu_cep_farmacia": "16010340"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Araçatuba"
+  
+},
+{
+  
+    "gid": "229"
+  ,
+  
+    "lat": "-11.8480193"
+  ,
+  
+    "long": "-55.5081012"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA EUNAPOLIS S/N"
+  ,
+  
+    "nu_cep_farmacia": "78550171"
+  ,
+  
+    "uf": "MT"
+  ,
+  
+    "cidade": "Sinop"
+  
+},
+{
+  
+    "gid": "462"
+  ,
+  
+    "lat": "-23.1078"
+  ,
+  
+    "long": "-45.703852"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "TRAVESSA DR. FREITAS Nº 21"
+  ,
+  
+    "nu_cep_farmacia": "12281550"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Caçapava"
+  
+},
+{
+  
+    "gid": "136"
+  ,
+  
+    "lat": "-16.0582206"
+  ,
+  
+    "long": "-48.0446383"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "QUADRA 110 LOTE 01"
+  ,
+  
+    "nu_cep_farmacia": "72860110"
+  ,
+  
+    "uf": "GO"
+  ,
+  
+    "cidade": "Novo Gama"
+  
+},
+{
+  
+    "gid": "523"
+  ,
+  
+    "lat": "-23.602721"
+  ,
+  
+    "long": "-46.5975964"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV BARO DE DUPRAT, Nº 123"
+  ,
+  
+    "nu_cep_farmacia": "4743060"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Paulo"
+  
+},
+{
+  
+    "gid": "459"
+  ,
+  
+    "lat": "-20.9400441"
+  ,
+  
+    "long": "-48.4812248"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRACA ABILIO MANOEL, Nº"
+  ,
+  
+    "nu_cep_farmacia": "14700349"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Bebedouro"
+  
+},
+{
+  
+    "gid": "493"
+  ,
+  
+    "lat": "-22.7653095"
+  ,
+  
+    "long": "-47.387329"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV ITAPARK, Nº 3203"
+  ,
+  
+    "nu_cep_farmacia": "9310370"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Mauá"
+  
+},
+{
+  
+    "gid": "479"
+  ,
+  
+    "lat": "-23.721114"
+  ,
+  
+    "long": "-46.8328707"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SAO PAULO N 39"
+  ,
+  
+    "nu_cep_farmacia": "6850080"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Itapecerica da Serra"
+  
+},
+{
+  
+    "gid": "491"
+  ,
+  
+    "lat": "-22.2242358"
+  ,
+  
+    "long": "-49.9495068"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV BRASIL 184"
+  ,
+  
+    "nu_cep_farmacia": "17501000"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Marília"
+  
+},
+{
+  
+    "gid": "367"
+  ,
+  
+    "lat": "-22.7094519"
+  ,
+  
+    "long": "-42.6227676"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA JOAO CARMO, N 27"
+  ,
+  
+    "nu_cep_farmacia": "2880000"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Rio Bonito"
+  
+},
+{
+  
+    "gid": "528"
+  ,
+  
+    "lat": "-23.602721"
+  ,
+  
+    "long": "-46.5975964"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "R JAVORAU, 70"
+  ,
+  
+    "nu_cep_farmacia": "2732000"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Paulo"
+  
+},
+{
+  
+    "gid": "330"
+  ,
+  
+    "lat": "-25.5881164"
+  ,
+  
+    "long": "-49.3983234"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA ALFREDO PARODI N°764"
+  ,
+  
+    "nu_cep_farmacia": "83702080"
+  ,
+  
+    "uf": "PR"
+  ,
+  
+    "cidade": "Araucária"
+  
+},
+{
+  
+    "gid": "503"
+  ,
+  
+    "lat": "-21.1766753"
+  ,
+  
+    "long": "-47.8056964"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV GERONIMO GONCALVES S/N"
+  ,
+  
+    "nu_cep_farmacia": "14010040"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Ribeirão Preto"
+  
+},
+{
+  
+    "gid": "457"
+  ,
+  
+    "lat": "-23.1094503"
+  ,
+  
+    "long": "-48.9228016"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA SANTA CATARINA Nº 960"
+  ,
+  
+    "nu_cep_farmacia": "18700005"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Avaré"
+  
+},
+{
+  
+    "gid": "521"
+  ,
+  
+    "lat": "-23.602721"
+  ,
+  
+    "long": "-46.5975964"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA BATISTA CRESPO, Nº 65/71"
+  ,
+  
+    "nu_cep_farmacia": "5786040"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Paulo"
+  
+},
+{
+  
+    "gid": "458"
+  ,
+  
+    "lat": "-20.554547"
+  ,
+  
+    "long": "-48.578721"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV 21, 1008"
+  ,
+  
+    "nu_cep_farmacia": "14780310"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Barretos"
+  
+},
+{
+  
+    "gid": "537"
+  ,
+  
+    "lat": "-23.642182"
+  ,
+  
+    "long": "-46.805065"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MANOEL MATOS DA SILVA SOBRINHO REGO Nº 35"
+  ,
+  
+    "nu_cep_farmacia": "6775540"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Taboão da Serra"
+  
+},
+{
+  
+    "gid": "363"
+  ,
+  
+    "lat": "-22.5015876"
+  ,
+  
+    "long": "-43.1674506"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA EPITACIO PESSOA N 56"
+  ,
+  
+    "nu_cep_farmacia": "25610000"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Petrópolis"
+  
+},
+{
+  
+    "gid": "483"
+  ,
+  
+    "lat": "-23.7908044"
+  ,
+  
+    "long": "-46.6395285"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "PRAÇA PADRE JOÃO ALVARES Nº 35"
+  ,
+  
+    "nu_cep_farmacia": "8577290"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Itaquaquecetuba"
+  
+},
+{
+  
+    "gid": "368"
+  ,
+  
+    "lat": "-22.8875724"
+  ,
+  
+    "long": "-43.256382"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV.DOM HELDER CAMARA,1390"
+  ,
+  
+    "nu_cep_farmacia": "20973011"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Rio de Janeiro"
+  
+},
+{
+  
+    "gid": "527"
+  ,
+  
+    "lat": "-23.602721"
+  ,
+  
+    "long": "-46.5975964"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV ZELINA, 1011"
+  ,
+  
+    "nu_cep_farmacia": "3143003"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "São Paulo"
+  
+},
+{
+  
+    "gid": "532"
+  ,
+  
+    "lat": "-21.1389483"
+  ,
+  
+    "long": "-47.9985512"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA VOLUNTARIO OTTO GOMES MARTINS Nº 1095"
+  ,
+  
+    "nu_cep_farmacia": "14170620"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Sertãozinho"
+  
+},
+{
+  
+    "gid": "232"
+  ,
+  
+    "lat": "-15.6003024"
+  ,
+  
+    "long": "-56.1672448"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MANOEL VARGAS,27"
+  ,
+  
+    "nu_cep_farmacia": "78118120"
+  ,
+  
+    "uf": "MT"
+  ,
+  
+    "cidade": "Várzea Grande"
+  
+},
+{
+  
+    "gid": "463"
+  ,
+  
+    "lat": "-22.8818412"
+  ,
+  
+    "long": "-47.0704677"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CLOVIS BEVILACQUA N° 535"
+  ,
+  
+    "nu_cep_farmacia": "13073021"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Campinas"
+  
+},
+{
+  
+    "gid": "402"
+  ,
+  
+    "lat": "-29.9245592"
+  ,
+  
+    "long": "-51.1820694"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA GUILHERME MORSCH"
+  ,
+  
+    "nu_cep_farmacia": "92310008"
+  ,
+  
+    "uf": "RS"
+  ,
+  
+    "cidade": "Canoas"
+  
+},
+{
+  
+    "gid": "470"
+  ,
+  
+    "lat": "-23.6886288"
+  ,
+  
+    "long": "-46.5850799"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA LUIS CARLOS PRESTES Nº 712"
+  ,
+  
+    "nu_cep_farmacia": "9932340"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Diadema"
+  
+},
+{
+  
+    "gid": "473"
+  ,
+  
+    "lat": "-23.3135805"
+  ,
+  
+    "long": "-46.7252429"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CORYPHEU  AZEVEDO MARQUES Nº 83"
+  ,
+  
+    "nu_cep_farmacia": "7802050"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Franco da Rocha"
+  
+},
+{
+  
+    "gid": "465"
+  ,
+  
+    "lat": "-23.5163247"
+  ,
+  
+    "long": "-46.8400227"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "AV INOCENCIO SERAFIO Nº 42"
+  ,
+  
+    "nu_cep_farmacia": "6320290"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Carapicuíba"
+  
+},
+{
+  
+    "gid": "362"
+  ,
+  
+    "lat": "-22.8630046"
+  ,
+  
+    "long": "-42.3080137"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA WALDEMAR MATIAS, SN"
+  ,
+  
+    "nu_cep_farmacia": "2397000"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Paraty"
+  
+},
+{
+  
+    "gid": "416"
+  ,
+  
+    "lat": "-30.8833826"
+  ,
+  
+    "long": "-55.5455171"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA RIVADAVIA CORREA, Nº 429"
+  ,
+  
+    "nu_cep_farmacia": "97573011"
+  ,
+  
+    "uf": "RS"
+  ,
+  
+    "cidade": "Sant'Ana do Livramento"
+  
+},
+{
+  
+    "gid": "455"
+  ,
+  
+    "lat": "-21.7830319"
+  ,
+  
+    "long": "-48.1966691"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA CARLOS GOMES N 1610 A"
+  ,
+  
+    "nu_cep_farmacia": "14801901"
+  ,
+  
+    "uf": "SP"
+  ,
+  
+    "cidade": "Araraquara"
+  
+},
+{
+  
+    "gid": "355"
+  ,
+  
+    "lat": "-22.3716774"
+  ,
+  
+    "long": "-41.7830347"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "RUA MARCIAL ALVES MOREIRA, 51"
+  ,
+  
+    "nu_cep_farmacia": "27910000"
+  ,
+  
+    "uf": "RJ"
+  ,
+  
+    "cidade": "Macaé"
+  
+},
+{
+  
+    "gid": "257"
+  ,
+  
+    "lat": "-0.7568787"
+  ,
+  
+    "long": "-47.8822604"
+  ,
+  
+    "ano_farm_pop": "2014"
+  ,
+  
+    "mes_farm_pop": "2"
+  ,
+  
+    "ds_endereco_farmacia": "TRAVESSA 7 DE SETEMBRO Nº 228 - TERREO CENTRO"
+  ,
+  
+    "nu_cep_farmacia": "68750000"
+  ,
+  
+    "uf": "PA"
+  ,
+  
+    "cidade": "Curuçá"
+  
+}
