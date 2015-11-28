@@ -25,12 +25,19 @@ HTTP.methods({
       alreadyHasRating = Rating.find({"aid":android_id_value}).count();
 
       if (alreadyHasRating != 0){
-          json = Rating.update({"aid":android_id_value, "gid":gid_value},{"aid":android_id_value, "gid":gid_value, "rating":rating});
+          json = Rating.update({"aid":android_id_value, "gid":gid_value},{"aid":android_id_value, "gid":gid_value, "rating":parseInt(rating)});
           return "Updated - AndroidID_already_voted";
       }else{
-          json = Rating.insert({"aid":android_id_value, "gid":gid_value, "rating":rating});
+          json = Rating.insert({"aid":android_id_value, "gid":gid_value, "rating":parseInt(rating)});
           return "OK";
       }
+    }
+  },
+  '/rate':{      // Permite acessar os dados filtrados por 'uf' da Collection Habilitados.
+    get: function(){
+      var json;
+      var buffer = Rating.aggregate([{$group:{_id:"$gid",rate:{$avg:"$rating"}}}]);
+      return buffer;
     }
   },
   '/farmacia_popular':{
