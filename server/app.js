@@ -22,7 +22,7 @@ HTTP.methods({
       var json;
 
       var alreadyHasRating = 0;
-      alreadyHasRating = Rating.find({"aid":android_id_value}).count();
+      alreadyHasRating = Rating.find({"aid":android_id_value, "gid":gid_value}).count();
 
       if (alreadyHasRating != 0){
           json = Rating.update({"aid":android_id_value, "gid":gid_value},{"aid":android_id_value, "gid":gid_value, "rating":parseInt(rating)});
@@ -37,6 +37,18 @@ HTTP.methods({
     get: function(){
       var json;
       var buffer = Rating.aggregate([{$group:{_id:"$gid",rate:{$avg:"$rating"}}}]);
+      return buffer;
+    }
+  },
+  '/rate/gid/:gid_value':{      // Permite acessar os dados filtrados por 'uf' da Collection Habilitados.
+    get: function(){
+      var json;
+      var gid_value = this.params.gid_value;
+      var buffer = Rating.aggregate([
+        {$group:{_id:"$gid", rate:{$avg:"$rating"}}},
+        {$match:{"_id":gid_value}}
+      ]);
+      console.log(buffer);
       return buffer;
     }
   },
